@@ -1,2 +1,2 @@
-# Classification_StateFarm
+# Classification
 Binary classification problem
